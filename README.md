@@ -28,4 +28,7 @@ Convenient Scheduling: Avoid long waiting times and book appointments from anywh
 
 Personalized Choices: Match with the right doctor based on your specific health requirements.
 
+
 Time Management: Allows doctors and patients to optimize their schedules effectively.
+<img width="209" alt="hp1" src="https://github.com/user-attachments/assets/f0431de7-f401-40da-b5ed-c39c7691156a" />
+<img width="208" alt="hp2" src="https://github.com/user-attachments/assets/31ffe6f2-b120-4512-a7a2-e3568390533c" />
